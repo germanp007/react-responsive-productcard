@@ -1,0 +1,50 @@
+/* Desktop Design*/
+
+.desktop-card {
+  background-color: white;
+  width: 610px;
+  height: 453px;
+  display: flex;
+  border-radius: 20px;
+  overflow: hidden;
+}
+.image-desktop {
+  height: 100%;
+}
+.p-desktop {
+  font-family: "Montserrat", sans-serif;
+  font-size: 14px;
+  color: hsl(228, 12%, 48%);
+  margin-bottom: 20px;
+  line-height: 170%;
+}
+.perfume {
+  letter-spacing: 5px;
+  margin-bottom: 20px;
+  margin-top: 5px;
+}
+.h1-desktop {
+  font-family: "Fraunces", serif;
+  margin-right: 40px;
+  margin-bottom: 25px;
+  color: hsl(212, 21%, 14%);
+  line-height: 100%;
+}
+.button-desktop {
+  font-family: "Montserrat", sans-serif;
+  background-color: hsl(158, 36%, 37%);
+  color: white;
+  border: none;
+  height: 50px;
+  width: 240px;
+
+  border-radius: 8px;
+}
+.text-desktop {
+  padding: 35px;
+}
+.price-desktop {
+  font-family: "Fraunces", serif;
+  color: hsl(158, 36%, 37%);
+  margin-bottom: 20px;
+}
